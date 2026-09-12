@@ -101,6 +101,7 @@ The dashboard includes:
 ## Dashboard Preview
 
 ![Olist E-Commerce Business Analysis Dashboard](images/olist_dashboard.png)
+📊 **[View Interactive Tableau Dashboard](https://public.tableau.com/views/Olist_Ecommerce_Dashboard_17888764945020/Dashboard?:language=en-US&publish=yes)**
 
 ## Key Findings
 
