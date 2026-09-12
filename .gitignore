@@ -1,7 +1,9 @@
 # Raw Olist dataset
 data/
 
-
+# Jupyter temporary files 
+.ipynb_checkpoints/ 
+**/.ipynb_checkpoints/
 
 # Python cache
 __pycache__/
