@@ -115,5 +115,4 @@ The dashboard includes:
 
 - Python EDA: `python/`
 - MySQL Analysis: `sql/`
-- Tableau Dashboard: `tableau/`
 - Dashboard Screenshot: `images/`
